@@ -7,6 +7,6 @@
     <title>Title</title>
 </head>
 <body>
-<a href="jinxiang://jinxiang.com:80//path//?id=1">近享测试，点我</a>
+<a href="jinxiang://jinxiang.com:80//path//?id=49">近享测试，点我</a>
 </body>
 </html>
